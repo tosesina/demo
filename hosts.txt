@@ -1,0 +1,14 @@
+
+# Public
+192.168.84.20	rac-pri.tytraining.com			rac-pri
+192.168.84.21	rac-standby.tytraining.com		rac-standby
+# Private
+192.168.81.20	rac-pri-private.tytraining.com		rac-pri-private
+192.168.81.21	rac-standby-private.tytraining.com	rac-standby-private
+# PUBLIC-Virtual-VIP
+192.168.84.22	rac-pri-vip.tytraining.com		rac-pri-vip
+192.168.84.23	rac-standby-vip.tytraining.com		rac-standby-vip
+# SCAN
+192.168.84.30	rac-scan.tytraining.com			rac-scan
+192.168.84.31	rac-scan.tytraining.com			rac-scan
+192.168.84.32	rac-scan.tytraining.com			rac-scan
